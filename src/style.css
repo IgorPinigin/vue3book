@@ -30,6 +30,9 @@
     .button-app-md{
         @apply text-3xl border border-solid border-white dark:border-btnBack-dark rounded-xl hover:shadow-app-btn hover:transition-shadow duration-300 ease-in-out active:bg-gray-100 active:transition-colors active:duration-100
     }
+    .max-w-tg{
+        max-width: 50%;
+    }
 }
 
 
